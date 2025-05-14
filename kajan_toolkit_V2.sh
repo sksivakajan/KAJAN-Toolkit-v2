@@ -205,7 +205,7 @@ echo "5  Public IP Checker"
 echo "6  Hash Cracker (John)"
 echo "7  Threat Intel Lookup (AbuseIPDB)"
 echo "8  Generate Summary Report"
-echo "8  Run Pentest Mode (Auto)"
+echo "9  Run Pentest Mode (Auto)"
 echo "10 Exit"
 read -p "👉 Enter your choice: " choice
 
